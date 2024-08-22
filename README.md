@@ -41,13 +41,15 @@ A Linux virtual machine (VM) that's intentionally vulnerable to attacks and can 
 
 ### Step 2: Now switch ON the Kali Linux and Metasploitable2 machines.
  -You can practice some linux commands on the linux terminal, https://www.geeksforgeeks.org/linux-commands-cheat-sheet/
- ![Screenshot (347)](https://github.com/user-attachments/assets/ae811fa6-59bb-4375-b927-39c43d07fd8f)
+ ![Screenshot (347)](https://github.com/user-attachments/assets/12ec6dc5-5c5a-4f61-81dc-b15d0ce097b3)
+
 
  -After turning ON the metasploitable2 use default username and password is msfadmin:msfadmin respectively.
  ![metasploitable](https://github.com/user-attachments/assets/685665c3-b7a9-454f-998d-2a965aeb48eb)
 
 -To do attack on the purposefully made vulnerable metasploitable2 machine, the attacker machine (here, Kali linux) is should be on the same network. With help of the Virtualbox application we can use the network configuration for the same, put both the machines on the ssme network.
-![Screenshot (348)](https://github.com/user-attachments/assets/85ffb1f5-6b04-488b-ada4-317aa7891147)
+![Screenshot (348)](https://github.com/user-attachments/assets/132fb790-05c3-4f91-88df-d4db1cc3b6bc)
+
 
 ### Setp 3: Using Kali linux to attack Metasploitable 2 machine
 -Here are some common practice attacks you can perform using Kali Linux on Metasploitable 2:
